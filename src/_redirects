@@ -1,0 +1,12 @@
+# Oude WordPress-adressen doorsturen naar de nieuwe pagina's (301 = permanent),
+# zodat bestaande Google-posities en links behouden blijven.
+/over-sec-calculaties     /over-ons/   301
+/over-sec-calculaties/    /over-ons/   301
+/home                     /            301
+/home/                    /            301
+/wp-content/uploads/2021/06/Algemene-voorwaarden.pdf   /assets/downloads/algemene-voorwaarden-sec-calculaties.pdf   301
+/feed                     /            301
+/feed/                    /            301
+/wp-login.php             /            301
+/wp-admin                 /            301
+/wp-admin/*               /            301
